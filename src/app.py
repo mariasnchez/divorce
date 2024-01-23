@@ -26,7 +26,7 @@ Q3 = st.select_slider(
     key="Q3")
 
 Q4 = st.select_slider(
-    'Cuando discuto con mi cónyuge, contactarlo eventualmente funciona.',
+    'Cuando discuto con mi cónyuge, tomar contacto físico funciona.',
     options=options,
     key="Q4")
 
@@ -56,7 +56,7 @@ Q9 = st.select_slider(
     key="Q9")
 
 Q10 = st.select_slider(
-    'La mayoría de nuestros objetivos son comunes a mi cónyuge.',
+    'La mayoría de mis objetivos son comunes a los de mi cónyuge.',
     options=options,
     key="Q10")
 
