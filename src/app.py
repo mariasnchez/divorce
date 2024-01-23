@@ -31,7 +31,7 @@ Q4 = st.select_slider(
     key="Q4")
 
 Q5 = st.select_slider(
-    'El tiempo que paso con mi esposa es especial para nosotros.',
+    'El tiempo que paso con mi cónyuge es especial para nosotros.',
     options=options,
     key="Q5")
 
@@ -111,7 +111,7 @@ Q20 = st.select_slider(
     key="Q20")
 
 Q21 = st.select_slider(
-    'Sé exactamente lo que le gusta a mi esposa.',
+    'Sé exactamente lo que le gusta a mi cónyuge.',
     options=options,
     key="Q21")
 
