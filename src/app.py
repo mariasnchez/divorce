@@ -6,8 +6,6 @@ clf = joblib.load("model/divorce_model.pkl")
 
 st.title('Averigua si tu matrimonio corre peligro')
 
-st.image('img/divorcio.png', width=200)
-
 options = ["Nunca", "Rara vez", "Promedio", "Con frecuencia", "Siempre"]
 
 Q1 = st.select_slider(
