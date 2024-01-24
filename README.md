@@ -1,5 +1,5 @@
 ﻿# Aplicación divorce
-Esta aplicación hecha en Streamlit con Machine Learning integrado que predice si tu matrimonio corre peligro o por el contrario es estable.
+Esta aplicación hecha en Streamlit con Machine Learning integrado predice si tu matrimonio corre peligro o por el contrario es estable.
 
 [URL página](https://divorceweb.streamlit.app/)
 
